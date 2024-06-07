@@ -1,0 +1,18 @@
+.rev-left{
+    height: 500px;
+    width: 400px;
+    background-color: #9E00FF;
+    border-radius: 20px;
+}
+
+.rev-main{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.rev-mid{
+    margin-left: -270px;
+    margin-top: 170px;
+}

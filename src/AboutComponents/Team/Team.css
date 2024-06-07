@@ -1,0 +1,65 @@
+.tmain{
+    display: block;
+}
+
+.tmeet,.tmembers{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 60px;
+}
+
+.tquestion{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+
+#tname{
+    color: #006F69;
+    margin-top: -0.5px;
+}
+
+#tp{
+    opacity: 0.6;
+    margin-top: -10px;
+}
+
+#goline{
+    margin-left: 180px;
+    margin-top: 50px;
+}
+
+#thead{
+    color: #006F69;
+    font-size: 40px;
+}
+
+#tpara{
+    opacity: 0.6;
+    font-size: 20px;
+}
+
+#th11{
+    color: #006F69;
+    font-size: 40px;
+}
+
+#tq1{
+    margin-top: 60px;
+}
+
+#tbtn{
+    height: 50px;
+    width: 120px;
+    background-color: #F2994A;
+    color: white;
+    font-size: 17px;
+    border: 1px solid white;
+}
+
+#tbtn:hover{
+    cursor: pointer;
+}

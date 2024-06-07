@@ -1,0 +1,16 @@
+.social-main{
+    height: 300px;
+    width: 100%;
+    background-color: #00A69D;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 130px;
+    margin-top: -55px;
+}
+
+.social1,.social2,.social3{
+    display: block;
+    text-align: center;
+    color: white;
+}

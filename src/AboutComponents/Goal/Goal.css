@@ -1,0 +1,67 @@
+.goal-main{
+    display: block;
+}
+
+.goal1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 80px;
+}
+
+.goal2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 80px;
+}
+
+.goal3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+
+#goalimg{
+    margin-left: 190px;
+    margin-top: 80px;
+}
+
+#gh1{
+    color: #006F69;
+    font-size: 60px;
+}
+
+#gp{
+    color: #00211F;
+}
+
+#gp1{
+    color: #AAB5B4;
+}
+
+#gh2a{
+    color: #006F69;
+    font-size: 30px;
+    padding-top: 60px;
+}
+
+#gh2b{
+    color: #006F69;
+    font-size: 45px;
+}
+
+.col1,.col2,.col3,.col4{
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+
+#gh4{
+    margin-top: -30px;
+}
+
+#gp3{
+    margin-top: -15px;
+}

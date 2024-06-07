@@ -1,0 +1,52 @@
+.log-main{
+    height: 600px;
+    width: 100%;
+    background-color: #00A69D;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 100px;
+    padding-top: 50px;
+}
+
+.title{
+    color: white;
+    font-size: 25px;
+}
+
+.inputs{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#urname{
+    height: 40px;
+    width: 250px;
+    padding-left: 10px;
+}
+
+#uremail{
+    height: 40px;
+    width: 250px;
+    padding-left: 10px;
+}
+
+#log-btn{
+    height: 46px;
+    width: 150px;
+    background-color: #F2994A;
+    color: white;
+    border: 1px solid #00A69D;
+}
+
+.container{
+    height: 257px;
+    width: 699px;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 409px;
+    background-color: #9E00FF;
+}
